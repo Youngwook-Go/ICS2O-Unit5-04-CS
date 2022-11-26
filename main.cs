@@ -20,7 +20,7 @@ class Program
         Console.Write("Enter the day of the week : "); day = Console.ReadLine();
 
         // output
-        if ((age > 12 && age < 21)||(day == "Tuesday" || day == "Thursday" ))
+        if ((age > 12 && age < 21) || (day == "Tuesday" || day == "Thursday"))
         {
             Console.WriteLine("You get in for free");
         }
