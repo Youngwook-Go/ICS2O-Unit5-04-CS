@@ -1,8 +1,7 @@
 // Created by: Youngwook
 // Created on: NOV 2022
 //
-// This function gets random number and user number
-// This function compares random number and user number and answer.
+// This function gets user age and day of the week to answer properly
 
 using System;
 
